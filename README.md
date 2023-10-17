@@ -34,18 +34,19 @@ h6 {
 
 </head>
 <body>
-    <h1>MADUNEME JOHN,am a frontend developer on a basic level in <strong> coding</strong> webpage .</h1>
+    <h1>MADUNEME JOHN,am a frontend developer experience in <strong> coding</strong> webpage .</h1>
     <h2> about:</h2>
     <p> i started my journey as a graduate of sociology and anthropolgy from the university of benin .</p>
-    <p> i am also a sales person </p>
-    <p> i am presently in love with coding most expecially in html elements and fortunately i have been opportune to be among the family of devcareer Africa </p>
-    currently learning <strong> frontend development </strong> skills </h4>
+    <p> i am also a sales person with a large portfolio in fmcg sectors </p>
+    <p> i am presently in love with coding most expecially in html elements and fortunately i have been opportune to be among the family of devcareer Africa </p
+    <p> currently learning <strong> frontend development </strong> skills .</p>
    
+    <p> 
     <table>
     <tr>
     <td> Resume </td>
     <td> mobile num:+2348064618327 </td>
-    </tr>
+    </tr>.</p>
      <h3> skills in view </h3>
       <ol> program am currently learning/selection:</ol>
       <ol>my-css-file</ol>
